@@ -11,8 +11,8 @@
                     },
                 "properties": 
                     {
-                        "display_name": "Chautauqua Park"
-                        "category": "outdoors"
+                        "display_name": "Chautauqua Park",
+                        "category": "outdoors",
                         "added_date": "2013-07-13"
                     }
             },
@@ -25,8 +25,8 @@
                     },
                 "properties": 
                     {
-                        "display_name": "Dushanbe Teahouse"
-                        "category": "food"
+                        "display_name": "Dushanbe Teahouse",
+                        "category": "food",
                         "added_date": "2013-07-13"
                     }
             },
@@ -39,8 +39,8 @@
                     },
                 "properties": 
                     {
-                        "display_name": "The Kitchen"
-                        "category": "food"
+                        "display_name": "The Kitchen",
+                        "category": "food",
                         "added_date": "2013-07-13"
                     }
             },
@@ -53,8 +53,8 @@
                     },
                 "properties": 
                     {
-                        "display_name": "Zoe Ma Ma"
-                        "category": "food"
+                        "display_name": "Zoe Ma Ma",
+                        "category": "food",
                         "added_date": "2013-07-13"
                     }
             }
